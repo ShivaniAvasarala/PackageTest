@@ -23,7 +23,7 @@ setup(
     author="ShivaniAvasarala",
     author_email="avasaralashivani@gmail.com",
     long_description=long_description,
-    url=f'https://github.com/ShivaniAvasarala/PackageTest', 
+    url=f'https://github.com/ShivaniAvasarala/PackageTest.git', 
     # install_requires=get_requirements("requirements.txt"),
     package_dir={"": "src"},
     packages=find_packages(where="src")
